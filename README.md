@@ -29,7 +29,9 @@ The frontend is built with Angular and communicates with a Spring Boot REST API.
 * ✅ Cross-Origin Resource Sharing (CORS) configuration
 
 ---
-
+## Screenshot
+<img width="763" height="475" alt="Image" src="https://github.com/user-attachments/assets/b21c2473-db82-47b9-b8ee-58fdf3f1758a" />
+---
 ## 🛠️ Technology Stack
 
 ### Frontend
