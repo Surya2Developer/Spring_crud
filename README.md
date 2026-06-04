@@ -17,16 +17,16 @@ The frontend is built with Angular and communicates with a Spring Boot REST API.
 
 ##  Features
 
-* ✅ Create new tasks
-* ✅ View all tasks
-* ✅ Update existing tasks
-* ✅ Delete tasks
-* ✅ RESTful API integration
-* ✅ MySQL database persistence
-* ✅ Angular standalone components
-* ✅ Responsive Bootstrap UI
-* ✅ Form validation and user interaction
-* ✅ Cross-Origin Resource Sharing (CORS) configuration
+*  Create new tasks
+*  View all tasks
+*  Update existing tasks
+* Delete tasks
+* RESTful API integration
+* MySQL database persistence
+* Angular standalone components
+* Responsive Bootstrap UI
+* Form validation and user interaction
+* Cross-Origin Resource Sharing (CORS) configuration
 
 ---
 ## Screenshot
@@ -91,7 +91,7 @@ MySQL Database
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Frontend
@@ -115,7 +115,7 @@ Database
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Backend
 
@@ -189,7 +189,7 @@ http://localhost:4200
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Magesh Surya Ambikapathi**
 
